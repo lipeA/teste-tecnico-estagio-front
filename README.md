@@ -19,7 +19,7 @@
 
 ### Prazo e Entrega do teste
 
-- O prazo para entrega do teste é de 7 (sete) dias corridos a partir do envio deste documento.
+- O prazo para entrega do teste é de 3 (três) dias corridos a partir do envio deste documento.
 - Para a entrega do teste desenvolvido, deve ser armazenado no GitHub. Caso você queira deixar o teste privado, pode dar acesso para @FlokiTV.
 - O link do repositório deve ser enviado pelo chat de contato.
 - No repositório deverá conter todo o código desenvolvido.
