@@ -26,3 +26,4 @@
 
 ### Exemplo de comportamento
 ![](https://i.imgur.com/7oCnj4q.gif)
+![image](https://github.com/Growth-Hack-Group-MercadoShops/teste-tecnico-estagio-front/assets/11356271/7692a267-2009-4b88-8537-93e20631722b)
