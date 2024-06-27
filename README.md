@@ -20,7 +20,7 @@
 ### Prazo e Entrega do teste
 
 - O prazo para entrega do teste é de 3 (três) dias corridos a partir do envio deste documento.
-- Para a entrega do teste desenvolvido, deve ser armazenado no GitHub. Caso você queira deixar o teste privado, pode dar acesso para @FlokiTV.
+- Para a entrega do teste desenvolvido, deve ser armazenado no GitHub. Caso você queira deixar o teste privado, pode dar acesso para @orvituhgo.
 - O link do repositório deve ser enviado pelo email rh@digitalgrowth.marketing
 - No repositório deverá conter todo o código desenvolvido.
 
